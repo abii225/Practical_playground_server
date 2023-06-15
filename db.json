@@ -1,0 +1,21 @@
+{
+    "courses":[
+           {
+            "name":"HTML5",
+            "rating":"4"
+           },
+           {
+            "name":"CSS",
+            "rating":"4.2"
+           },
+           {
+            "name":"JavaScript",
+            "rating":"4.8"
+           },
+           {
+            "name":"React.js",
+            "rating":"5"
+           }
+    ],
+    "users":[]
+}
