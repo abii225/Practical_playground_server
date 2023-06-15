@@ -3,6 +3,7 @@
            {
             "name":"HTML5",
             "rating":"4",
+            "image":"https://i.ibb.co/Q9y4vgg/html5.png",
             "comments":[],
             "lessons":[
                 {
@@ -24,6 +25,7 @@
            {
             "name":"CSS",
             "rating":"4.2",
+            "image":"https://i.ibb.co/pzpFR8K/css3.png",
             "comments":[],
             "lessons":[
                 {
@@ -41,6 +43,7 @@
            {
             "name":"JavaScript",
             "rating":"4.8",
+            "image":"https://i.ibb.co/74zyY8G/js.png",
             "comments":[],
             "lessons":[{
                 "title":"Type Conversion in Javascript",
@@ -61,6 +64,7 @@
            {
             "name":"React.js",
             "rating":"5",
+            "image":"https://i.ibb.co/xCJTR4t/React-icon-svg.png",
             "comments":[],
             "lessons":[
                 {
