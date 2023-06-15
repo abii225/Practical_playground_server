@@ -2,23 +2,86 @@
     "courses":[
            {
             "name":"HTML5",
-            "rating":"4"
+            "rating":"4",
+            "comments":[],
+            "lessons":[
+                {
+                    "title":"HTML meta tags",
+                     "src":"https://www.youtube.com/embed/bi5bfH_gVWE"
+                },{
+                    "title":"HTML images",
+                    "src":"https://www.youtube.com/embed/Hh_se2Zqsdk"
+                },{
+                   "title":"HTML Lists",
+                   "src":"https://www.youtube.com/embed/-kXZvKxs9oA"
+                },
+                {
+                    "title":"HTML Span & Div",
+                    "src":"https://www.youtube.com/embed/wq1XyG-2m58"
+                }
+            ]
            },
            {
             "name":"CSS",
-            "rating":"4.2"
+            "rating":"4.2",
+            "comments":[],
+            "lessons":[
+                {
+                    "title":"CSS Position",
+                    "src":"https://www.youtube.com/embed/Pp7UXS3P6jY"
+                },{
+                    "title":"CSS Psuedo Elements",
+                    "src":"https://www.youtube.com/embed/fWnXVwULqrE"
+                },{
+                    "title":"CSS Background",
+                    "src":"https://www.youtube.com/embed/YA8ZciJa64k"
+                }
+            ]
            },
            {
             "name":"JavaScript",
-            "rating":"4.8"
+            "rating":"4.8",
+            "comments":[],
+            "lessons":[{
+                "title":"Type Conversion in Javascript",
+                "src":"https://www.youtube.com/embed/my3f_sUObhE"
+            },{
+                "title":"User input in JavaScript",
+                "src":"https://www.youtube.com/embed/fARJwGqdbKQ"
+            },{
+                "title":"Const in Javascript",
+                "src":"https://www.youtube.com/embed/49S8P_MFGOY"
+            },{
+                "title":"Method Chaining in JavaScript",
+                "src":"https://www.youtube.com/embed/YIp4fHeO8Rk"
+            }
+
+            ]
            },
            {
             "name":"React.js",
-            "rating":"5"
+            "rating":"5",
+            "comments":[],
+            "lessons":[
+                {
+                    "title":"Hello World  React.js",
+                    "src":"https://www.youtube.com/embed/9hb_0TZ_MVI"
+                },{
+                    "title":"Component in React.js",
+                    "src":"https://www.youtube.com/embed/Y2hgEGPzTZY"
+                },{
+                    "title":"Functional components React.js",
+                    "src":"https://www.youtube.com/embed/Cla1WwguArA"
+                },{
+                    "title":"JSX React.js",
+                    "src":"https://www.youtube.com/embed/7fPXI_MnBOY"
+                }
+            ]
            }
     ],
     "users":[{
         "name":"Abhay",
-        "xp":300
+        "xp":300,
+        "completed":[]
     }]
 }
