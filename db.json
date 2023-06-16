@@ -7,17 +7,17 @@
             "lessons":[
                 {
                     "title":"HTML meta tags",
-                     "src":"https://www.youtube.com/embed/bi5bfH_gVWE"
+                     "src":"bi5bfH_gVWE"
                 },{
                     "title":"HTML images",
-                    "src":"https://www.youtube.com/embed/Hh_se2Zqsdk"
+                    "src":"Hh_se2Zqsdk"
                 },{
                    "title":"HTML Lists",
-                   "src":"https://www.youtube.com/embed/-kXZvKxs9oA"
+                   "src":"-kXZvKxs9oA"
                 },
                 {
                     "title":"HTML Span & Div",
-                    "src":"https://www.youtube.com/embed/wq1XyG-2m58"
+                    "src":"wq1XyG-2m58"
                 }
             ]
            },
@@ -28,13 +28,13 @@
             "lessons":[
                 {
                     "title":"CSS Position",
-                    "src":"https://www.youtube.com/embed/Pp7UXS3P6jY"
+                    "src":"Pp7UXS3P6jY"
                 },{
                     "title":"CSS Psuedo Elements",
-                    "src":"https://www.youtube.com/embed/fWnXVwULqrE"
+                    "src":"fWnXVwULqrE"
                 },{
                     "title":"CSS Background",
-                    "src":"https://www.youtube.com/embed/YA8ZciJa64k"
+                    "src":"YA8ZciJa64k"
                 }
             ]
            },
@@ -44,16 +44,16 @@
             "image":"https://i.ibb.co/74zyY8G/js.png",
             "lessons":[{
                 "title":"Type Conversion in Javascript",
-                "src":"https://www.youtube.com/embed/my3f_sUObhE"
+                "src":"my3f_sUObhE"
             },{
                 "title":"User input in JavaScript",
-                "src":"https://www.youtube.com/embed/fARJwGqdbKQ"
+                "src":"fARJwGqdbKQ"
             },{
                 "title":"Const in Javascript",
-                "src":"https://www.youtube.com/embed/49S8P_MFGOY"
+                "src":"49S8P_MFGOY"
             },{
                 "title":"Method Chaining in JavaScript",
-                "src":"https://www.youtube.com/embed/YIp4fHeO8Rk"
+                "src":"YIp4fHeO8Rk"
             }
 
             ]
@@ -65,16 +65,16 @@
             "lessons":[
                 {
                     "title":"Hello World  React.js",
-                    "src":"https://www.youtube.com/embed/9hb_0TZ_MVI"
+                    "src":"9hb_0TZ_MVI"
                 },{
                     "title":"Component in React.js",
-                    "src":"https://www.youtube.com/embed/Y2hgEGPzTZY"
+                    "src":"Y2hgEGPzTZY"
                 },{
                     "title":"Functional components React.js",
-                    "src":"https://www.youtube.com/embed/Cla1WwguArA"
+                    "src":"Cla1WwguArA"
                 },{
                     "title":"JSX React.js",
-                    "src":"https://www.youtube.com/embed/7fPXI_MnBOY"
+                    "src":"7fPXI_MnBOY"
                 }
             ]
            }
