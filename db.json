@@ -82,7 +82,6 @@
     "comments":[],
     "users":[{
         "name":"Abhay",
-        "xp":300,
-        "completed":[]
+        "password":"12345678"
     }]
 }
