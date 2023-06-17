@@ -82,6 +82,7 @@
     "comments":[],
     "users":[{
         "name":"Abhay",
+        "email":"abhayv225@gmail.com",
         "password":"12345678"
     }]
 }
